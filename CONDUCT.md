@@ -39,7 +39,7 @@ Instances of abusive, harassing, or otherwise unacceptable behavior
 may be reported by following our [reporting guidelines][coc-reporting].
 
 
-- [Software and Data Carpentry Code of Conduct][coc]
+- [eT- cloud Software and eT-cloud Data Foundation Code of Conduct][coc]
 - [Code of Conduct Reporting Guide][coc-reporting]
 
 {% include links.md %}
