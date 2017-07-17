@@ -73,11 +73,9 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## Trademark
 
-"Software Carpentry" and "Data Carpentry" and their respective logos
-are registered trademarks of [NumFOCUS][numfocus].
-
+" eT-Cloud Software Foundation" and " eT-cloud Foundation" and their respective logos
+are registered trademarks of eT-cloud Foundation
 [cc-by-human]: https://creativecommons.org/licenses/by/4.0/
 [cc-by-legal]: https://creativecommons.org/licenses/by/4.0/legalcode
 [mit-license]: http://opensource.org/licenses/mit-license.html
-[numfocus]: http://numfocus.org/
 [osi]: http://opensource.org
